@@ -25,6 +25,6 @@ Spike tickets > max 2 days or else moving on.
 kotlin + micronaut for core rest api and serverless
 aws cdk for IaC
 aws ecs with ec2
-
+api gateway apisix on ecs ec2
 deploy to production environment since the start until launch
 -->
