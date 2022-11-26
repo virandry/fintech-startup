@@ -19,3 +19,12 @@ Besides monetary costs, there is also maintenance cost. based on my experience, 
 This all depends on the team's size and expertise when we start the project as it will influence a lot in terms of how much we want to delegate the auto-scaling parts to the service that the cloud provider has.
 ### Team Scalibility
 One factor that often also overlooks is how could we also scale the team, not only the software and infrastructure. Nowadays, there is high competition in getting talent to join the company. Tech stack chosen will influence the potential talents to join for the reason of tech attractiveness. Failing to scale the team will certainly affect scaling the products/features, the organization wants.
+
+<!--- 
+Spike tickets > max 2 days or else moving on.
+kotlin + micronaut for core rest api and serverless
+aws cdk for IaC
+aws ecs with ec2
+
+deploy to production environment since the start until launch
+-->
